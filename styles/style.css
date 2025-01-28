@@ -1,0 +1,197 @@
+@font-face {
+    font-family: Poppins;
+    src: url(../assets/fonts/Poppins/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: futurak;
+    src: url(../assets/fonts/Futura\ Black\ BT.ttf);
+}
+html{
+    font-size: 62.5%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.logo{
+    width: 165px;
+}
+.main-poster{
+    width: 1520px;
+}
+.nav-bar{
+    padding: 10px 120px;
+
+}
+.nav-items{ 
+    text-decoration: none;
+    color:white;
+    font-family: Poppins;
+    font-size: 1.5rem;
+}
+.nav-buttons{
+    font: Poppins;
+    width: 145px;
+    height: 50px;
+    border-radius: 30px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 1.4rem;
+    border: 1px solid #ff0000;
+    
+}
+#franchise-button{
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 30px;
+}
+#order-button{
+    width: 150px;
+}
+#arrow{
+    color: red;
+    background-color: #ffffff;
+    border-radius:50% ;
+    padding: 5px 8px;
+    font-size: 1.5rem;
+    
+}
+.big-font{
+    font-family: Poppins;
+    font-weight: 390;
+    font-size: 3.4rem;
+    padding-top: 50px;
+    
+}
+.bn-text{
+    font-family: futurak;
+    font-size: 5rem;
+
+}
+.small-font{
+    font-family: Poppins;
+    font-size: 1.5rem;
+}
+.main-images{
+    width: 250px;
+    padding: 30px 20px 20px ;
+    margin-top: 40px;
+    border-radius: 3px;
+    margin-left: 20px;
+}
+.main-button{
+    font: Poppins;
+    font-weight: 25px;
+    height: 50px;
+    border-radius: 30px;
+    color: #ffffff;
+    background-color: black;
+    cursor: pointer;
+    font-size: 1.4rem;
+    border: 0.2px solid #3e3e3e;
+    width: 174px;
+    margin: 28px 38px 80px 38px;
+    text-align: center;
+}
+.bg-text{
+    font-family: futurak;
+    color: #1b1b1b;
+    font-size: 30rem;
+}
+.resfran{
+    font-size: 5rem;
+}
+.city-name{
+    letter-spacing: 10px;
+    font-family: Poppins;
+    font-weight: 250;
+    font-size: 1.6rem;
+    padding-bottom:0px;
+
+}
+.sbn{
+    padding-top:0px ;
+    font-size: 3.4rem;
+
+}
+.rest{
+    font-family: Poppins;
+    font-size: 3.4rem;
+    font-weight: 380;
+}
+.add-ph{
+    font-family: Poppins;
+    font-size: 1.5rem;
+}
+.firstcont{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+add-ph-icon{
+    font-size: 2rem;
+    color:  #3e3e3e;
+}
+.fif-contimg{
+    width: 650px;
+}
+.fif-cont{
+    height: 1500px;
+}
+.six-cont{
+    height:1500px;
+    
+}
+.bg-img{
+    padding: 50px 0px 50px 50px;
+    height: 1900px;
+    width: 1500px;
+    position: absolute;
+}
+.six-contimg{
+  width: 400px;
+  margin-bottom: 10px;
+  padding-top: 40px;
+  border-radius: 0
+}
+#six-conttext{
+    font-size: 0.1rem;
+}
+.snpef-city{
+    color: #ff0000;
+    font-family: Poppins;
+    font-size: 1.2rem;
+    font-weight: 400;
+    letter-spacing: 7px;
+}
+.snpef-bn{
+    font-size: 2.3rem;
+}
+.snpef-ap{
+    font-size: 1.3rem;
+}
+.snpef-btn{
+    width: 2000px;
+}
+
+#getdir-btn{
+    width: 180px;
+    font: Poppins;
+    height: 50px;
+    border-radius: 30px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 1.4rem;
+    border: 1px solid  #3e3e3e;
+
+}
+.dir-arr{
+     color: red;
+    background-color: #ffffff;
+    border-radius:50% ;
+    padding: 5px 8px;
+    font-size: 1.5rem;
+
+
+}
