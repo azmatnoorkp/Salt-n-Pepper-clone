@@ -86,11 +86,17 @@
 .justify-evenly{
     justify-content: space-evenly;
 }
+.jusitfy-end{
+    justify-content: end;
+}
 .align-center{
     align-items: center;
 }
 .align-start{
     align-items: start;
+}
+.align-end{
+    align-items: end;
 }
 .alignself-start{
     align-self: flex-start;

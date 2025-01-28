@@ -149,6 +149,11 @@ add-ph-icon{
     width: 1500px;
     position: absolute;
 }
+.bg-img2{
+    position: absolute;
+    left: 1160px;
+
+}
 .six-contimg{
   width: 400px;
   margin-bottom: 10px;
