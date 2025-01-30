@@ -201,3 +201,93 @@ add-ph-icon{
 .faisal{
     padding-right: 250px;
 }
+.seventh-cont{
+      margin-top: 410px;
+      width: 1520px;
+      height: 655px;
+}
+.seventh-contimg{
+    width: 800px;
+    height: 400px;
+}
+.seventh-contbtn{
+    
+    background-color: #ffffff;
+    border-radius:50% ;
+    padding: 5px 8px;
+    font-size: 1.5rem;
+
+}
+.eight-cont{
+    height: 1230px;
+}
+.eight-contbox{
+    width: 420px;
+    height: 230px;
+    border-radius: 5px;
+    background-color: white;
+}
+.os-text{
+    font-size: 2.5rem;
+    font-family:Poppins;
+    font-weight: 500;
+}
+.os-box{
+    font-family: Poppins;
+    letter-spacing: 5px;
+    
+}
+.exp-box{
+    font-weight: 2;
+}
+.s-feed{
+    color:#212529 ;
+    padding-top: 80px;
+    font-size: 3.4rem;
+}
+.last-img{
+    width: 285px;
+    height: 280px;
+
+}
+.foot{
+  height: 630px;  
+}
+.sblack{
+    padding-top: 150px;
+    padding-left: 30px;
+    position: absolute;
+    height: 630px;
+    width: 380px;
+}
+.snp-bnimg{
+    width: 140px;
+
+}
+.foot-text{
+    font-size: 1.5rem;
+    font-family: Poppins;
+}
+.foot-box{
+    padding-top: 80px;
+    
+}
+.foot-head{
+    font-family: Poppins;
+    font-size: 1.6rem;
+    color: white;
+    font-weight: 500;
+
+}
+.s-icon{
+    color:white;
+    background-color: red;
+    border-radius:50% ;
+    padding: 11px 14px;
+    font-size: 1.5rem;
+    margin: 4px;
+}
+.name{
+    height: 50px;
+    padding-top: 10px;
+}
